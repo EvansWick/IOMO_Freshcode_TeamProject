@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "server": "json-server db.json5 --watch --port 3001",
     "lint": "oxlint",
     "preview": "vite preview"
   },
