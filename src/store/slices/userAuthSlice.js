@@ -8,7 +8,7 @@ const initialState = {
 };
 
 const userAuthSlice = createSlice({
-  name: 'userAuth', // префікс для типів екшенів (наприклад, 'counter/increment')
+  name: 'userAuth', // префікс для типів екшенів 
   initialState,
   reducers: {},
 });

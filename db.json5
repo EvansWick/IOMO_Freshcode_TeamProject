@@ -253,4 +253,36 @@
       description: 'Актор Кілліан Мерфі, відомий своїми ролями у кіно.',
     },
   ],
+  users: [
+  {
+    nickName: 'ivan_m',
+    firstName: 'Іван',
+    lastName: 'Маслюков',
+    photo: 'https://example.com/photos/ivan.jpg',
+  },
+  {
+    nickName: 'oleg_dev',
+    firstName: 'Олег',
+    lastName: 'Ковальчук',
+    photo: 'https://example.com/photos/oleg.jpg',
+  },
+  {
+    nickName: 'max_code',
+    firstName: 'Максим',
+    lastName: 'Шевченко',
+    photo: 'https://example.com/photos/max.jpg',
+  },
+  {
+    nickName: 'sasha_js',
+    firstName: 'Саша',
+    lastName: 'Бондар',
+    photo: 'https://example.com/photos/sasha.jpg',
+  },
+  {
+    nickName: 'viktor_pro',
+    firstName: 'Віктор',
+    lastName: 'Мельник',
+    photo: 'https://example.com/photos/viktor.jpg',
+  },
+]
 }
