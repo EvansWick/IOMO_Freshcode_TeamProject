@@ -9,7 +9,6 @@ function Layout () {
     <>
       <Header />
       <main>
-        outlet
         <Outlet />
       </main>
       <Footer />
