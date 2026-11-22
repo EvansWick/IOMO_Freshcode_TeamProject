@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "nickName": "ivan_m",
+      "firstName": "Іван",
+      "lastName": "Маслюков",
+      "photo": "https://example.com/photos/ivan.jpg"
+    },
+    {
+      "id": "2",
+      "nickName": "oleg_dev",
+      "firstName": "Олег",
+      "lastName": "Ковальчук",
+      "photo": "https://example.com/photos/oleg.jpg"
+    },
+    {
+      "id": "3",
+      "nickName": "max_code",
+      "firstName": "Максим",
+      "lastName": "Шевченко",
+      "photo": "https://example.com/photos/max.jpg"
+    },
+    {
+      "id": "4",
+      "nickName": "sasha_js",
+      "firstName": "Саша",
+      "lastName": "Бондар",
+      "photo": "https://example.com/photos/sasha.jpg"
+    },
+    {
+      "id": "5",
+      "nickName": "viktor_pro",
+      "firstName": "Віктор",
+      "lastName": "Мельник",
+      "photo": "https://example.com/photos/viktor.jpg"
+    }
+  ]
+}

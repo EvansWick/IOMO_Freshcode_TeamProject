@@ -17,3 +17,35 @@ You can also try [the experimental native React Compiler support in plugin-react
 ## Expanding the Oxlint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+
+## Локальний сервер (JSON Server)
+
+Вихідні дані для мокового API розділені на окремі файли в папці `src/jsonServer/data/`:
+
+- `movies.json` — фільми
+- `persons.json` — актори та режисери
+- `users.json` — користувачі
+
+Сам `json-server` працює зі спільним файлом `src/jsonServer/db.json`, який генерується автоматично та доданий до `.gitignore`.
+
+### Перший запуск (або після `git pull`)
+
+1. Зберіть спільний файл бази даних `db.json`: ОБОВ'ЯЗКОВО при першому запуску серверу!
+
+   Генерує src/jsonServer/db.json на основі файлів із src/jsonServer/data/
+
+   ```bash
+   npm run dbJsonServer:merge
+   ```
+
+2. Запустити эмулятор сервера`json-server`:
+   ```bash
+   npm run dbJsonServer
+   ```
+
+### Додатковий функціонал
+
+3. Вивантажує дані з `db.json` назад у `src/jsonServer/data/`:
+   ```bash
+   npm run dbJsonServer:split
+   ```

@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "server": "json-server db.json5 --watch --port 3001",
+    "dbJsonServer:merge": "node src/jsonServer/merge.cjs",
+    "dbJsonServer:split": "node src/jsonServer/split.cjs",
+    "dbJsonServer": "json-server --watch src/jsonServer/db.json --port 3001",
     "lint": "oxlint",
     "preview": "vite preview"
   },
