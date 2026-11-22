@@ -1,0 +1,174 @@
+{
+  "persons": [
+    {
+      "id": "1",
+      "firstName": "Леонардо",
+      "lastName": "Ді Капріо",
+      "pseudonym": "Лео",
+      "actedIn": [
+        "4",
+        "5",
+        "8",
+        "20",
+        "30"
+      ],
+      "birthDate": "1974-11-11",
+      "deathDate": null,
+      "produced": [],
+      "description": "Актор Леонардо Ді Капріо, відомий своїми ролями у кіно."
+    },
+    {
+      "id": "2",
+      "firstName": "Кіану",
+      "lastName": "Рівз",
+      "pseudonym": "",
+      "actedIn": [
+        "22",
+        "29",
+        "35",
+        "37",
+        "38",
+        "39"
+      ],
+      "birthDate": "1964-09-02",
+      "deathDate": null,
+      "produced": [
+        "38"
+      ],
+      "description": "Актор Кіану Рівз, відомий своїми ролями у кіно."
+    },
+    {
+      "id": "3",
+      "firstName": "Меттью",
+      "lastName": "Макконахі",
+      "pseudonym": "",
+      "actedIn": [
+        "29"
+      ],
+      "birthDate": "1969-11-04",
+      "deathDate": null,
+      "produced": [],
+      "description": "Актор Меттью Макконахі, відомий своїми ролями у кіно."
+    },
+    {
+      "id": "4",
+      "firstName": "Бред",
+      "lastName": "Пітт",
+      "pseudonym": "",
+      "actedIn": [
+        "8",
+        "10",
+        "12",
+        "13",
+        "14"
+      ],
+      "birthDate": "1963-12-18",
+      "deathDate": null,
+      "produced": [],
+      "description": "Актор Бред Пітт, відомий своїми ролями у кіно."
+    },
+    {
+      "id": "5",
+      "firstName": "Том",
+      "lastName": "Генкс",
+      "pseudonym": "",
+      "actedIn": [
+        "1",
+        "6",
+        "8",
+        "11",
+        "16",
+        "20",
+        "26",
+        "32",
+        "33"
+      ],
+      "birthDate": "1956-07-09",
+      "deathDate": null,
+      "produced": [],
+      "description": "Актор Том Генкс, відомий своїми ролями у кіно."
+    },
+    {
+      "id": "6",
+      "firstName": "Морган",
+      "lastName": "Фрімен",
+      "pseudonym": "",
+      "actedIn": [
+        "14",
+        "15",
+        "19",
+        "36",
+        "37"
+      ],
+      "birthDate": "1937-06-01",
+      "deathDate": null,
+      "produced": [],
+      "description": "Актор Морган Фрімен, відомий своїми ролями у кіно."
+    },
+    {
+      "id": "7",
+      "firstName": "Крістіан",
+      "lastName": "Бейл",
+      "pseudonym": "",
+      "actedIn": [
+        "10",
+        "18",
+        "30",
+        "39",
+        "40"
+      ],
+      "birthDate": "1974-01-30",
+      "deathDate": null,
+      "produced": [
+        "10"
+      ],
+      "description": "Актор Крістіан Бейл, відомий своїми ролями у кіно."
+    },
+    {
+      "id": "8",
+      "firstName": "Джонні",
+      "lastName": "Депп",
+      "pseudonym": "",
+      "actedIn": [
+        "18",
+        "20",
+        "25",
+        "40"
+      ],
+      "birthDate": "1963-06-09",
+      "deathDate": null,
+      "produced": [],
+      "description": "Актор Джонні Депп, відомий своїми ролями у кіно."
+    },
+    {
+      "id": "9",
+      "firstName": "Брюс",
+      "lastName": "Вілліс",
+      "pseudonym": "Бруно",
+      "actedIn": [
+        "2",
+        "27",
+        "36"
+      ],
+      "birthDate": "1955-03-19",
+      "deathDate": null,
+      "produced": [],
+      "description": "Актор Брюс Вілліс, відомий своїми ролями у кіно."
+    },
+    {
+      "id": "10",
+      "firstName": "Кілліан",
+      "lastName": "Мерфі",
+      "pseudonym": "",
+      "actedIn": [
+        "18",
+        "20",
+        "38"
+      ],
+      "birthDate": "1976-05-25",
+      "deathDate": null,
+      "produced": [],
+      "description": "Актор Кілліан Мерфі, відомий своїми ролями у кіно."
+    }
+  ]
+}
